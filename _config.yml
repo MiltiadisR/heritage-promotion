@@ -25,7 +25,7 @@ github_username:  MiltiadisR
 
 # Build settings
 markdown: kramdown
-theme: Eduzone
+theme: minima
 plugins:
   - jekyll-feed
 
