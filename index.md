@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-top_img: asstes/me.jpg
+top_img: assets/me.jpg
 ---
